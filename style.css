@@ -1,0 +1,26 @@
+.ramen {
+  background-color: brown;
+  color: yellow;
+}
+
+.udon {
+  background-color: burlywood;
+  color: white;
+}
+
+.curry {
+  background-color: yellow;
+  color: red;
+}
+
+.main {
+  background-color: lightblue;
+}
+
+.title {
+  font-size: 64px;
+}
+
+h3 {
+  font-size: 24px;
+}
